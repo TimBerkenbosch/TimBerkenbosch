@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimBerkenbosch
-- 👀 I’m interested in making 2D platformer games and 2D RPG games
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in making 2D Platformer Games, 2D RPG Games and Pixel Art
+- 🌱 I’m currently learning the Unity engine
 
 <!---
 TimBerkenbosch/TimBerkenbosch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
